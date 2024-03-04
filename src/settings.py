@@ -14,7 +14,7 @@ from dataset_tools.templates import (
 # * Before uploading to instance #
 ##################################
 PROJECT_NAME: str = "ADAS"
-PROJECT_NAME_FULL: str = "Dataset for Advance Driver Assistant Systems (ADAS)"
+PROJECT_NAME_FULL: str = "ADAS: Dataset for Advance Driver Assistant Systems"
 HIDE_DATASET = False  # set False when 100% sure about repo quality
 
 ##################################
