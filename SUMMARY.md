@@ -1,4 +1,4 @@
-**Dataset for Advance Driver Assistant Systems (ADAS)** is a dataset for an object detection task. Possible applications of the dataset could be in the automotive industry. 
+**ADAS: Dataset for Advance Driver Assistant Systems** is a dataset for an object detection task. Possible applications of the dataset could be in the automotive industry. 
 
 The dataset consists of 903 images with 1143 labeled objects belonging to 9 different classes including *pothole*, *left_hand_curve*, *right_hand_curve*, and other: *speed_breaker*, *bridge_ahead*, *pedestrian*, *animal*, *name_board*, and *vehicle*.
 
